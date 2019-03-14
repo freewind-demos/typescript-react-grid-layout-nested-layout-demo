@@ -1,7 +1,7 @@
-TypeScript React Grid Layout Demo
-=================================
+TypeScript React Grid Layout Nested Layout Demo
+===============================================
 
-使用`react-grid-layout`来布局，功能非常强大。
+可行。需要注意的是，默认内部的layout与外面之间有padding，可以使用`containerPadding={[0, 0]}`来设置。
 
 ```
 npm install
