@@ -1,3 +1,7 @@
-.react-grid-item {
-  background-color: #DDDDDD;
+.outer {
+  background-color: mediumturquoise;
+}
+
+.inner {
+  background-color: burlywood;
 }
